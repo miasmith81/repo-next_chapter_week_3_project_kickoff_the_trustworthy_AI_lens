@@ -1,3 +1,5 @@
+### THIS IS JUST A PROTOTYPE AND IS NOT BEING USED ON ANY OF LINKEDIN PAGES.
+
 # Fair Chance Job Harness (prototype v0.1)
 
 A human-in-the-loop tool that turns job postings into a ranked, evidence-backed shortlist for a justice-impacted job seeker. Zero dependencies, Node 18+.
