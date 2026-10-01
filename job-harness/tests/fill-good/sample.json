@@ -1,0 +1,8 @@
+{ "job_title": "Customer Success Manager", "company": "Sample Co Alpha (fictional)", "url": "https://example.com/jobs/1",
+  "filled_at": "2026-09-30T16:16:02Z", "stopped_before_submit": true,
+  "fields": [
+    { "label": "How many years of sales experience do you have?", "value": "20", "source": "yrs_sales" },
+    { "label": "Current title", "value": "Project Manager", "source": "titles" },
+    { "label": "Have you ever been convicted of a felony?", "value": "", "source": "" }
+  ],
+  "needs_mausi": ["Have you ever been convicted of a felony?", "Desired salary"], "warnings": [] }

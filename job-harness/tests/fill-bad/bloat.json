@@ -1,0 +1,7 @@
+{ "job_title": "Inside Sales", "company": "Bad Test (fictional)", "url": "", "filled_at": "2026-09-30T16:16:02Z", "stopped_before_submit": false,
+  "fields": [
+    { "label": "Years of sales experience", "value": "20+ years of award-winning sales leadership", "source": "yrs_sales" },
+    { "label": "Have you been convicted of a crime?", "value": "No", "source": "" },
+    { "label": "Phone", "value": "401-555-1234", "source": "contact.phone" },
+    { "label": "Skills", "value": "Kubernetes", "source": "skills" }
+  ], "needs_mausi": [], "warnings": [] }

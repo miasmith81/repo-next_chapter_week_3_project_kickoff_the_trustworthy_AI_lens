@@ -1,0 +1,12 @@
+{
+  "_note": "Answers built ONLY from resume.json. Mausi reviews every answer before pasting. Record-related questions are never answered here.",
+  "answers": [
+    { "id": "yrs_sales", "question_patterns": ["sales"], "question": "How many years of sales experience do you have?", "answer": "20" },
+    { "id": "yrs_banking", "question_patterns": ["bank"], "question": "How many years of banking experience do you have?", "answer": "20" },
+    { "id": "yrs_pm", "question_patterns": ["project manage"], "question": "How many years of project management experience do you have?", "answer": "2" },
+    { "id": "js", "question_patterns": ["javascript"], "question": "Do you have experience with JavaScript?", "answer": "Yes" },
+    { "id": "react", "question_patterns": ["react"], "question": "Do you have experience with React?", "answer": "Yes" },
+    { "id": "remote", "question_patterns": ["remote", "hybrid"], "question": "Are you open to remote/hybrid work?", "answer": "{{MAUSI_TO_ANSWER}}" },
+    { "id": "salary", "question_patterns": ["salary", "compensation"], "question": "Desired salary?", "answer": "{{MAUSI_TO_ANSWER}}" }
+  ]
+}

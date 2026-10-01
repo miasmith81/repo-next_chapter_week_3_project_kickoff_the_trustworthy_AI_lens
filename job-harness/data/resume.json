@@ -1,0 +1,26 @@
+{
+  "_note": "SAMPLE DATA. Replace every value with content copied from your real resume. Keep placeholders for personal info. Never add record details.",
+  "contact": {
+    "name": "{{NAME}}",
+    "email": "{{EMAIL}}",
+    "phone": "{{PHONE}}",
+    "location": "{{CITY_STATE}}",
+    "linkedin": "{{LINKEDIN_URL}}"
+  },
+  "titles": ["Project Manager", "Sales Professional"],
+  "skills": [
+    "project management",
+    "sales",
+    "banking",
+    "customer service",
+    "JavaScript",
+    "React",
+    "prompt engineering",
+    "AI tools",
+    "stakeholder communication",
+    "CRM"
+  ],
+  "years_experience": { "sales": 20, "banking": 20, "project management": 2 },
+  "certifications": ["{{CERTIFICATION_1}}"],
+  "education": ["{{PROGRAM_1}}"]
+}

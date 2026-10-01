@@ -1,0 +1,17 @@
+{
+  "name": "fair-chance-job-harness",
+  "version": "0.2.0",
+  "description": "Human-in-the-loop job shortlist harness for justice-impacted job seekers. Zero dependencies.",
+  "private": true,
+  "scripts": {
+    "shortlist": "node src/run.js",
+    "validate": "node harness/validate.js",
+    "go": "node src/run.js && node harness/validate.js",
+    "test": "node --test tests/harness.test.js",
+    "prompt": "node src/build-prompt.js",
+    "check-fill": "node harness/validate-fill.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

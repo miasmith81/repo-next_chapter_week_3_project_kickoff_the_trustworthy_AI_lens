@@ -1,0 +1,5 @@
+Title: Junior Frontend Developer
+Company: Sample Co Beta (fictional)
+URL: https://example.com/jobs/2
+
+Build UI features in JavaScript and React. Experience with AI tools and prompt engineering a bonus. We hire through our second chance program with local reentry partners. Apply on company website via Greenhouse.

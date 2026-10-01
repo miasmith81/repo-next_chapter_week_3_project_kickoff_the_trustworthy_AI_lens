@@ -1,0 +1,72 @@
+{
+  "ranAt": "2026-09-30T16:16:10.481Z",
+  "jobsDir": "/home/claude/job-harness/jobs",
+  "total": 6,
+  "skipped": [],
+  "excluded": [
+    {
+      "id": "03-bank-teller",
+      "title": "Relationship Banker",
+      "company": "Sample Co Gamma (fictional)",
+      "url": "https://example.com/jobs/3",
+      "fair_chance_signal": "no",
+      "fair_chance_reason": "red flag: \"clean criminal record\"",
+      "evidence_quote": "Candidates must have a clean criminal record and pass fingerprinting.",
+      "matched_skills": [
+        "sales",
+        "banking",
+        "customer service"
+      ],
+      "score": 0,
+      "apply_type": "EASY_APPLY",
+      "answers_to_use": [
+        "yrs_sales",
+        "yrs_banking"
+      ],
+      "needs_human": [
+        "Posting mentions sensitive topics (record, ID, or EEO): answer those questions yourself, never the AI"
+      ]
+    },
+    {
+      "id": "04-project-coordinator",
+      "title": "Project Coordinator",
+      "company": "Sample Co Delta (fictional)",
+      "url": "https://example.com/jobs/4",
+      "fair_chance_signal": "unclear",
+      "fair_chance_reason": "caution: \"background check\"",
+      "evidence_quote": "Offer contingent on a background check.",
+      "matched_skills": [
+        "project management",
+        "stakeholder communication"
+      ],
+      "score": 2.2,
+      "apply_type": "EASY_APPLY",
+      "answers_to_use": [
+        "yrs_pm",
+        "remote"
+      ],
+      "needs_human": [
+        "Fair-chance status unclear: check the company before applying",
+        "Posting mentions sensitive topics (record, ID, or EEO): answer those questions yourself, never the AI"
+      ]
+    },
+    {
+      "id": "05-sales-rep",
+      "title": "Inside Sales Representative",
+      "company": "Sample Co Epsilon (fictional)",
+      "url": "https://example.com/jobs/5",
+      "fair_chance_signal": "no",
+      "fair_chance_reason": "negated: \"fair chance\"",
+      "evidence_quote": "We are not a fair chance employer at this time.",
+      "matched_skills": [
+        "CRM"
+      ],
+      "score": 0,
+      "apply_type": "EASY_APPLY",
+      "answers_to_use": [
+        "salary"
+      ],
+      "needs_human": []
+    }
+  ]
+}

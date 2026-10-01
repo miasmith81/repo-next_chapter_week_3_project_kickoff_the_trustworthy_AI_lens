@@ -1,0 +1,72 @@
+[
+  {
+    "id": "01-customer-success",
+    "title": "Customer Success Manager",
+    "company": "Sample Co Alpha (fictional)",
+    "url": "https://example.com/jobs/1",
+    "fair_chance_signal": "yes",
+    "fair_chance_reason": "matched: \"fair chance\"",
+    "evidence_quote": "We are a proud Fair Chance employer and welcome applicants with arrest and conviction records.",
+    "matched_skills": [
+      "sales",
+      "banking",
+      "customer service",
+      "stakeholder communication",
+      "CRM"
+    ],
+    "score": 7,
+    "apply_type": "EASY_APPLY",
+    "answers_to_use": [
+      "yrs_sales",
+      "yrs_banking"
+    ],
+    "needs_human": [
+      "Posting mentions sensitive topics (record, ID, or EEO): answer those questions yourself, never the AI"
+    ]
+  },
+  {
+    "id": "02-junior-dev",
+    "title": "Junior Frontend Developer",
+    "company": "Sample Co Beta (fictional)",
+    "url": "https://example.com/jobs/2",
+    "fair_chance_signal": "yes",
+    "fair_chance_reason": "matched: \"second chance\"",
+    "evidence_quote": "We hire through our second chance program with local reentry partners.",
+    "matched_skills": [
+      "JavaScript",
+      "React",
+      "prompt engineering",
+      "AI tools"
+    ],
+    "score": 6.4,
+    "apply_type": "EXTERNAL_ATS",
+    "answers_to_use": [
+      "js",
+      "react"
+    ],
+    "needs_human": [
+      "External application site: apply there yourself"
+    ]
+  },
+  {
+    "id": "06-ops-analyst",
+    "title": "Operations Analyst",
+    "company": "Sample Co Zeta (fictional)",
+    "url": "https://example.com/jobs/6",
+    "fair_chance_signal": "yes",
+    "fair_chance_reason": "matched: \"justice-involved\"",
+    "evidence_quote": "Join our justice-involved hiring initiative.",
+    "matched_skills": [
+      "project management",
+      "AI tools"
+    ],
+    "score": 5.2,
+    "apply_type": "EXTERNAL_ATS",
+    "answers_to_use": [
+      "yrs_pm"
+    ],
+    "needs_human": [
+      "External application site: apply there yourself"
+    ]
+  }
+]
